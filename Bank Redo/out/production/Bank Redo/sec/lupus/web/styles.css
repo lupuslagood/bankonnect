@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(0, 10, 50);
+    font-size: 20px;
+}
+
+#rpanel {
+    position: fixed;
+    top: 200px;
+    border-radius: 25px;
+    background-image: linear-gradient(rgb(0, 10, 50), blue);
+    margin-left: 500px;
+    margin-right: 50%;
+    width: 700px;
+    height: 400px;
+    padding-top: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+input[type=text],
+input[type=password] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 28px 20px;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 25px;
+    box-sizing: border-box;
+    font-size: 18px;
+    margin-left: 30px;
+}
+
+label {
+    color: aqua;
+}
+
+
+.btn-group {
+    display: inline-block;
+    overflow: auto;
+    white-space: nowrap;
+    margin: 100px auto;
+    background-color: rgb(0, 10, 50);
+    border: 1px solid aqua;
+    color: aqua;
+    padding: 15px 32px;
+    text-align: center;
+    cursor: pointer;
+    width: 200px;
+    border-radius: 20px;
+    font-size: 22px;
+}
+
+.btn-group:hover {
+    color: rgb(0, 255, 0);
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: aqua;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    position: absolute;
+    z-index: 1;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
