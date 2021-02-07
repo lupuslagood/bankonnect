@@ -1,0 +1,39 @@
+FATAL: password authentication failed for user "usr"
+FATAL: password authentication failed for user "usr"
+The column name transacion_type was not found in this ResultSet.
+ERROR: null value in column "recepient_account" of relation "logs" violates not-null constraint
+  Detail: Failing row contains (admin, LOGIN, null, Wed Feb 03 15:48:32 EAT 2021).
+ERROR: null value in column "recepient_account" of relation "logs" violates not-null constraint
+  Detail: Failing row contains (admin, LOGIN, null, Wed Feb 03 15:51:33 EAT 2021).
+ERROR: null value in column "recepient_account" of relation "logs" violates not-null constraint
+  Detail: Failing row contains (admin, LOGIN, null, Wed Feb 03 15:56:00 EAT 2021).
+ERROR: null value in column "recepient_account" of relation "logs" violates not-null constraint
+  Detail: Failing row contains (admin, LOGIN, null, Wed Feb 03 15:57:43 EAT 2021).
+ERROR: null value in column "recepient_account" of relation "logs" violates not-null constraint
+  Detail: Failing row contains (admin, LOGIN, null, Wed Feb 03 16:00:05 EAT 2021).
+ERROR: null value in column "recepient_account" of relation "logs" violates not-null constraint
+  Detail: Failing row contains (admin, LOGIN, null, Wed Feb 03 16:02:33 EAT 2021).
+ERROR: null value in column "recepient_account" of relation "logs" violates not-null constraint
+  Detail: Failing row contains (admin, LOGIN, null, Wed Feb 03 16:03:12 EAT 2021).
+ERROR: null value in column "recepient_account" of relation "logs" violates not-null constraint
+  Detail: Failing row contains (admin, LOGIN, null, Wed Feb 03 16:03:39 EAT 2021).
+ERROR: null value in column "recepient_account" of relation "logs" violates not-null constraint
+  Detail: Failing row contains (admin, LOGIN, null, Wed Feb 03 16:08:03 EAT 2021).
+ERROR: null value in column "recepient_account" of relation "logs" violates not-null constraint
+  Detail: Failing row contains (admin, LOGIN, null, Wed Feb 03 16:09:02 EAT 2021).
+ERROR: null value in column "recepient_account" of relation "logs" violates not-null constraint
+  Detail: Failing row contains (admin, LOGIN, null, Wed Feb 03 16:10:33 EAT 2021).
+ERROR: null value in column "recepient_account" of relation "logs" violates not-null constraint
+  Detail: Failing row contains (admin, LOGIN, null, Wed Feb 03 16:11:00 EAT 2021).
+ERROR: null value in column "recepient_account" of relation "logs" violates not-null constraint
+  Detail: Failing row contains (admin, LOGIN, null, Wed Feb 03 16:11:35 EAT 2021).
+ERROR: null value in column "recepient_account" of relation "logs" violates not-null constraint
+  Detail: Failing row contains (admin, LOGIN, null, Wed Feb 03 16:12:44 EAT 2021).
+ERROR: null value in column "recepient_account" of relation "logs" violates not-null constraint
+  Detail: Failing row contains (admin, LOGIN, null, Wed Feb 03 16:13:31 EAT 2021).
+ERROR: null value in column "recepient_account" of relation "logs" violates not-null constraint
+  Detail: Failing row contains (admin, LOGIN, null, Wed Feb 03 16:13:58 EAT 2021).
+ERROR: null value in column "recepient_account" of relation "logs" violates not-null constraint
+  Detail: Failing row contains (admin, LOGIN, null, Wed Feb 03 16:15:27 EAT 2021).
+ERROR: null value in column "recepient_account" of relation "logs" violates not-null constraint
+  Detail: Failing row contains (admin, LOGIN, null, Wed Feb 03 16:16:49 EAT 2021).
